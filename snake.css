@@ -1,0 +1,105 @@
+h1{
+	background-color: #FFFFE0;
+				}
+}
+
+p.serif {
+	font-family: Calibri, sans, serif;
+}
+	
+body  {
+	padding: 20px; padding-top: 2px;
+	
+	background-color: #FFFFE0;
+         background-image: 
+        background-position: absolute;
+}
+	
+nav {
+	text-transform: uppercase;
+	font-size: 40px;
+	text-align: center;
+	padding-bottom: 10px;
+	word-spacing: 50px;
+}
+
+nav a{
+    text-decoration: none;
+	word-spacing: 5px;
+	text-transform: uppercase;
+}
+<style>
+
+        .container {
+            align-items: center;
+			margin-bottom: 100px;
+        }
+
+        .text {
+            flex: 1;
+			color: #876246;
+           padding-top: 15px;
+        }
+
+        .textmini1 {
+            flex: 1;
+			font-size: 20px;
+			color: #788757;
+            padding-bottom: 15px;
+		}
+		.textmini2 {
+            flex: 1;
+			font-size: 20px;
+			color: #788757;
+            padding-bottom: 15px;
+			
+			}
+		.textmini3 {
+            flex: 1;
+			font-size: 20px;
+			color: #788757;
+            padding-bottom: 15px;
+        }
+        .eye {
+			padding: 20px;
+			float: left; 
+			border-radius: 650px;
+            max-width: 20%;
+            height: auto;
+            display: block;
+            margin: 0 auto; /* Centers the image within its container */
+        }
+		.copperhead {
+			padding: 20px;
+			float: right; 
+			border-radius: 650px;
+            max-width: 20%;
+            height: auto;
+            display: block;
+            margin: 0 auto; /* Centers the image within its container */
+        }
+		.text1 {
+            flex: 1;
+			color: #876246;
+			text-align: right;
+            padding: 20px; /* Adjust the padding as needed */
+        }
+		
+		.skin {
+			padding: 20px;
+			float: left; 
+			border-radius: 650px;
+            max-width: 20%;
+            height: auto;
+            display: block;
+            margin: 0 auto; /* Centers the image within its container */
+		}
+		.text2 {
+			padding: 20px;
+			float: left; 
+			border-radius: 650px;
+            max-width: 20%;
+            height: auto;
+            display: block;
+            margin: 0 auto; /* Centers the image within its container */
+        }
